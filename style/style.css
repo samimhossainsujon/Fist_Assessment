@@ -1,0 +1,45 @@
+.banner-img{
+    position: relative;
+}
+
+.banner-img img{
+max-width: 100%;
+height: 100%;
+}
+
+.banner-text h1{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    color: #000000;
+    font-style: bold;
+    padding: 10px;
+}
+
+.banner-text p{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+}
+
+
+.contact-us-btn{
+    background: #F15B22;
+    color: #FFFFFF;
+    align-items: center;
+    font-size: 24px;
+    position: absolute;
+    top: 55%;
+    left: 80%;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    
+  
+  
+
+}
+
+
+
